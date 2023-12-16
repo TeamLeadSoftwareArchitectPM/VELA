@@ -1,2 +1,2 @@
 # VELA
-Android app and Server of  Women's Health Calendar
+Android app and Backend in Microserver architecture of  Women's Health Calendar
